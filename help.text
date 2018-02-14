@@ -1,0 +1,9 @@
+$i++;
+$cfg['Servers'][$i]['host']          = 'us-cdbr-iron-east-05.cleardb.net';
+$cfg['Servers'][$i]['socket']        = '';
+$cfg['Servers'][$i]['connect_type']  = 'tcp';
+$cfg['Servers'][$i]['extension']     = 'mysql';
+$cfg['Servers'][$i]['compress']      = FALSE;
+$cfg['Servers'][$i]['auth_type']     = 'config';
+$cfg['Servers'][$i]['username']      = 'bf2159eb8880da';
+$cfg['Servers'][$i]['password']      = '4065ef10';
